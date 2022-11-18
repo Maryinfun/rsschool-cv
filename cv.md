@@ -14,4 +14,17 @@ Hi there! I have years of experience as a  Foreign Trade Manager and a strong co
     * [**Dribble**] (https://dribbble.com/Motmaryion)
     * [**GitHub**] (https://github.com/Maryinfun)
 ===
-
+###**SKILLS**
+    * English C1 ([EF SET] (https://efset.org/cert/eddCGx))
+    * Adobe After Effects, Illustrator, Photoshop
+    * HTML, CSS (in progress)
+    * VS code, Git (in progress)
+===
+###**EDUCATION**
+    * Streamline English, Advanced Level
+    * Animation Bootcamp
+    * SuperMotion from VideoSmile
+    * Character Animation Bootcamp
+    * Stepik, HTML ans CSS for beginners (in progress)
+    
+    
