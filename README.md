@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Maryinfun.github.io/rsschool-cv/cv
