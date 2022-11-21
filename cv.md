@@ -26,5 +26,28 @@ Hi there! I have years of experience as a  Foreign Trade Manager and a strong co
     * SuperMotion from VideoSmile
     * Character Animation Bootcamp
     * Stepik, HTML ans CSS for beginners (in progress)
-    
+===
+###**CODE EXAMPLE**
+```
+print('Hello')
+0=int(input('How old are you?))
+def f(l):
+    if l < 18:
+      print(Access is denied')
+    else:
+      print('Access is allowed')
+f(0)
+
+def is_access(age):
+    return age >= 18
+
+print('Hello')
+age = int(input('How old are you?'))
+
+print('Access is allowed' if is_access(age) else 'Access is denied')
+```
+
+
+
+
     
