@@ -38,8 +38,9 @@ p {
 h1 {
     width:100%;
     font-family: Geneva, Arial, Helvetica, sans-serif;
-    color:rgb(0, 0, 0);
+    color:rgb(88, 195, 122);
     text-align: center;
+    font-size: 75px;
   }
 h2 {
     font-family: Geneva, Arial, Helvetica, sans-serif;
