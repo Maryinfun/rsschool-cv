@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  html, body {
+    padding:0; margin:0;
+}
+  .full {
+    position:relative;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    width: 75%;
+    background-color: rgb(88, 195, 122); 
+  }
+.right {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    padding-right: 60px;
+}
+p {
+    text-align: justify;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+.image {
+   margin-top: 60px;
+   margin-left: auto;
+   margin-right: auto;
+}
+h1 {
+    width:100%;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    text-align: center;
+  }
+h2 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
