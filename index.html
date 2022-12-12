@@ -9,15 +9,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <nav class="navbar">
+        <a href="#PROFILE">Profile</a>
+        <a href="#CONTACTS">Contact me</a>
+        <a href="#SOCIAL">Follow me</a>
+        <a href="#SKILLS">Skills</a>
+        <a href="#EDUCATION">Education</a>
+        <a href="#CODE">Code example</a>
+    </nav>
+    <hr>    
     <div class="info">
-        <img src="CV avatar.png" alt="My Photo" class="avatar" /> 
+        <img src="Photo.png" alt="My Photo" class="photo"> 
         <h1>MARIA PANTELEEVA</h1>
+        <a id="PROFILE"></a>
         <h2>PROFILE</h2>
         <p><em>Hi there! I have years of experience as a  Foreign Trade Manager and a strong commitment to change the occupation. I'm keen on Front-end and Motion Design and open for new interesting projects (internship, full time and part time job, single projects). My strengths are ability to work individually and being a good team worker, multitasking and troubleshooting as well as ability to focus on small details and the goal, interest and ability to learn and develop.</em></p>
     </div>
 
     <hr>
     <br> 
+    <a id="CONTACTS"></a>
     <div class="contacts">
         <h2>CONTACT ME</h2>
         <ul>
@@ -27,6 +38,7 @@
         </ul>
     </div>
     <br>
+    <a id="SOCIAL"></a>
     <h2>FOLLOW ME</h2>
     <ul>
         <li><a href="https://www.linkedin.com/in/maria-panteleeva-49206781/">LinkedIn</a></li>
@@ -34,6 +46,7 @@
         <li><a href="https://github.com/Maryinfun">GitHub</a></li>
     </ul>
     <br>
+    <a id="SKILLS"></a>
     <h2>SKILLS</h2> 
     <ul>
         <li>English C1(<a href="https://efset.org/cert/eddCGx">EF SET</a>)</li>
@@ -42,6 +55,7 @@
          <li>VS Code, Git (in progress)</li>
     </ul>
     <br>
+    <a id="EDUCATION"></a>
     <h2>EDUCATION</h2>
     <ul>
         <li>RS School, Stage 0 (in progress)</li>
@@ -52,14 +66,15 @@
         <li>Character Animation Bootcamp</li>
     </ul>
     <br>
+    <a id="CODE"></a>
     <h2>CODE EXAMPLE</h2>
     <pre>
         <code>
             print('Hello')
             0=int(input('How old are you?))
             def f(l):
-                if l < 18:
-                    print(Access is denied')
+                if l &lt; 18:
+                    print('Access is denied')
                 else:
                     print('Access is allowed')
             f(0)
