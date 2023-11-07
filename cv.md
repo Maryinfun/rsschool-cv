@@ -1,5 +1,5 @@
 https://Maryinfun.github.io/rsschool-cv/cv
-# **MARIA PNTELEEVA**
+# **MARIA PANTELEEVA**
 
 ### **CONTACT ME**
 * **Location:** Mogilev, Belarus
